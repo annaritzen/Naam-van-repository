@@ -6,3 +6,5 @@ ggplot(marketing, aes(x = youtube, y = sales)) +
 
 model <- lm(sales ~ youtube, data = marketing)
 model
+
+a <- "Hello World"
