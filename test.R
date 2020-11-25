@@ -8,3 +8,5 @@ model <- lm(sales ~ youtube, data = marketing)
 model
 
 a <- "Hello World"
+
+print("Hello World")
